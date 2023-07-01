@@ -35,7 +35,7 @@ php网站   python DirectScan.py -u  http://127.0.0.1:8088 -f php -t 10
 asp网站   python DirectScan.py -u  http://127.0.0.1:8088 -f jsp -t 10
 
 ![image](https://github.com/github8669/DirctScan/assets/22950238/c523b4dd-bf43-421f-a730-6489aafccd5a)
-![image](https://github.com/github8669/DirctScan/assets/22950238/84f9541e-e3dc-4203-8331-a6c982f3663c)
+![image](https://github.com/github8669/DirctScan/assets/22950238/96828750-c251-4f10-863a-aea4c43abf2b)
 ![image](https://github.com/github8669/DirctScan/assets/22950238/b3d0910a-995f-4178-954d-f9824395f69e)
 ![image](https://github.com/github8669/DirctScan/assets/22950238/fb3173bf-1453-4cb9-861b-09c2f1e4cd49)
 
